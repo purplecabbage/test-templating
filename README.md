@@ -1,1 +1,3 @@
 # test-templating
+
+${{ github.repository }}
